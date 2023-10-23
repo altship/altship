@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a student of computer science in China.
+
+Currently studying in C/C++, Python and such things
+
+Have interest in CUDA and maths so I bought the book to read
+
+Welcome to comment anything as you like!
+
+XD
 <!--
 **altship/altship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
