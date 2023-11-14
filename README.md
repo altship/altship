@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a student of computer science in China.
+I'm a student of Computer Science in China.
 
 Currently studying C/C++, Python and such things
 
-Have interest in CUDA and maths so I bought the book to read
+Have interest in CUDA and maths so I bought the book to read, just share something you like with me!
 
 Welcome to comment anything as you like!
 
